@@ -1,0 +1,10 @@
+{
+  "tickets": [
+    {
+      "id": 1,
+      "task": "create a modal",
+      "status": "IN_PROGRESS",
+      "assigned": "John Doe"
+    }
+  ]
+}
